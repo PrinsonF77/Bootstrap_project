@@ -36,3 +36,8 @@ body{
 .navbar-dark{
      background:#512DA8;
 }
+
+.clr{
+  background:#512DA8;
+  color:#fff;
+}
