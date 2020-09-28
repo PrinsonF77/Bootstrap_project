@@ -41,3 +41,7 @@ body{
   background:#512DA8;
   color:#fff;
 }
+
+html{
+  scroll-behavior: smooth;
+}
